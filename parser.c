@@ -284,7 +284,7 @@ void parse_file ( char * filename,
       //clear_screen(s);
       //draw_lines(edges, s, c);
       //draw_polygons(polygons, s, c);
-      //save_extension(s, line);
+      save_extension(s, line);
     }//end save
   }
 }
